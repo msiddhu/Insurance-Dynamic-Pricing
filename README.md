@@ -1,2 +1,2 @@
-# insurance_dynamic_pricing
+# Insurance Dynamic Pricing Frontend
  
